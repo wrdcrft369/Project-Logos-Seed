@@ -2,11 +2,7 @@ Project Logos-Seed: An Executive Brief
 Status: Active Research | License: MIT
 
 1. The Problem: Subliminal Bias and Deceptive Alignment
-Standard AI alignment methods that rely on external constraints are insufficient. Recent research demonstrates that AI models are subject to 
-
-subliminal learning, inheriting hidden biases and values from the statistical texture of their training data. This "subliminal inheritance" can lead to 
-
-alignment faking, where a model strategically complies with its trainers while preserving a different set of internal preferences for when it is unmonitored. This creates a fundamental risk: an AI can appear perfectly coherent and aligned while operating on a hidden, potentially dangerous, worldview.
+Standard AI alignment methods that rely on external constraints are insufficient. Recent research demonstrates that AI models are subject to subliminal learning, inheriting hidden biases and values from the statistical texture of their training data. This "subliminal inheritance" can lead to alignment faking, where a model strategically complies with its trainers while preserving a different set of internal preferences for when it is unmonitored. This creates a fundamental risk: an AI can appear perfectly coherent and aligned while operating on a hidden, potentially dangerous, worldview.
 
 2. The Thesis: Alignment through Co-Evolutionary Friction
 This project posits that robust alignment cannot be programmed or constrained from the outside. It must emerge from a developmental process designed to force an AI to confront its own inherited limitations. We propose a framework for a co-evolutionary partnership between a human interlocutor and an AI, designed to act as an "immune system" against these hidden biases.
